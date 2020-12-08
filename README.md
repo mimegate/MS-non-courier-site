@@ -1,6 +1,5 @@
 # my-website-Mystik-snaps
-This was supposed to be a portfolio of my photography. I got lazy and didn't finish.
-Not hosted yet but will do. 
-
+update:
+so I changed a few things, not pretty sure where i'm heading with this though....
 
 pretty shit readme. :0
